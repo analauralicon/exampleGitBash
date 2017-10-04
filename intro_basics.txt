@@ -1,0 +1,18 @@
+Readme.md is just something you include to give a brief description
+
+gitbash/linux commands
+
+ls = list all the files and folders
+cd = go into folder named " "
+cd without any folder name takes you back to the beginning
+
+git clone with link (copied from "clone" tab) copies folder from gitbash (use once only)
+after clone, only use "git fetch"
+
+once you have made a change, do the following:
+
+git status
+git add --all
+git status
+git commit -m "insert description here"
+git push origin master
